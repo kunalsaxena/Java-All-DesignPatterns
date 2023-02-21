@@ -1,4 +1,4 @@
-# Java-All-DesignPatterns
+# Java All Design Patterns
 All Java Design Patterns With Theory and Example
 
 # Design Patterns
@@ -13,20 +13,25 @@ Design patterns help to solve problems related to software design, such as creat
 
 ## Repository Contents
 
-In this repository, you will find a collection of design patterns implemented in various programming languages. Each design pattern has its own folder, with code samples and explanations of how to use the pattern.
+In this repository, you will find a collection of design patterns implemented in Java programming languages. Each design pattern has its own folder, with code samples and explanations of how to use the pattern.
 
 The following design patterns are included in this repository:
 
+#### Creational
 - Singleton
 - Factory Method
 - Abstract Factory
 - Builder
 - Prototype
+#### Structural
 - Adapter
+- Bridge
+- Composite
 - Decorator
 - Facade
 - Flyweight
 - Proxy
+#### Behavioural
 - Chain of Responsibility
 - Command
 - Interpreter
